@@ -1,5 +1,5 @@
-【PaxPowerGloveAllHard】
-■目的
+#【PaxPowerGloveAllHard】
+##■目的
 　ファミコン拡張コントローラー（パワーグローブ）から各種ハードを操作する
 
 ■最終目標
